@@ -1,0 +1,7 @@
+# exclude webstorm config files
+.idea
+
+# exclude dist files
+.next
+node_modules
+package-lock.json

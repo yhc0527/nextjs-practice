@@ -1,0 +1,14 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
